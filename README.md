@@ -49,11 +49,3 @@ Here are some ideas to get you started:
 Feel free to check out my repositories or reach out for collaboration in **Data Science**, **Machine Learning**, or **Web Development** projects! 🚀  
 
 
-
-🏅 Achievements & Extracurriculars  
-🏆 Active participant in Hackathons and coding competitions.  
-📚 A proactive learner, continuously exploring cutting-edge technologies.   
-
-
-🌟 Let's Connect
-Feel free to check out my repositories or reach out for collaboration in Data Science, Machine Learning, or Web Development projects! 🚀
