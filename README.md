@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">
+  <a href = "https://avatars.githubusercontent.com/u/155063571?v=4" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Kumar+Mishra!;" />
+</h1>
 <!--
 **anni990/anni990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
