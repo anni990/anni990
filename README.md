@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 <h3 align="center"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px">  Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/anni990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_aniket_990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malay_jain9
+<a href="https://www.linkedin.com/in/anni990/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_aniket_990/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malay_jain9
 " height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/aniket22mizs4a/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/aniket22mizs4a/" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=aniket22mishra2004@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
