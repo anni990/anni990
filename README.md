@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **3rd Year B.Tech Student** specializing in **Artificial Intelligence and Machine Learning**.  
+
+- 🎓 **3rd Year B.Tech Student** specializing in **Artificial Intelligence and Machine Learning**.
+  
 - 🖥️ Skilled in **HTML, CSS, Python, C/C++**, with hands-on experience in **Data Preprocessing**, **Data Analysis**, and **Problem-Solving**.  
 
 ---
@@ -58,25 +60,38 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Projects  
-- 🌟 **Food Waste Reduction Platform**: Leveraged technology to minimize food wastage effectively.  
-- ❤️ **Cardiovascular Disease Prediction**: Built a predictive model to enhance healthcare decisions.  
-- 🎬 **Movie Recommendation System**: Developed a system to suggest movies based on user preferences.  
+
+- 🌟 **Food Waste Reduction Platform**: Leveraged technology to minimize food wastage effectively.
+  
+- ❤️ **Cardiovascular Disease Prediction**: Built a predictive model to enhance healthcare decisions.
+  
+- 🎬 **Movie Recommendation System**: Developed a system to suggest movies based on user preferences.
+  
 - 🌐 **Web Scraping Mini Projects**: Extracted valuable insights from websites efficiently.  
 
 ---
 
-### 💼 Professional Experience  
-- 🏢 **Intern at Raj Institute of Coding and Robotics**:  
-   - Contributed to **LMS Backend Development**.  
-   - Prepared **Notes for Data Science** batches.  
-   - Solved **Students' Doubts** in Data Science and Machine Learning.  
-- 👨‍💻 **Data Science Lead at Google Developers Group**:  
+### 💼 Professional Experience 
+
+- 🏢 **Intern at Raj Institute of Coding and Robotics**:
+   
+   - Contributed to **LMS Backend Development**.
+     
+   - Prepared **Notes for Data Science** batches.
+     
+   - Solved **Students' Doubts** in Data Science and Machine Learning.
+     
+- 👨‍💻 **Data Science Lead at Google Developers Group**:
+    
    - Led a team of developers and hosted **Community Events**.  
 
 ---
 
 ### 🌟 Let's Connect  
+
 Feel free to check out my repositories or reach out for collaboration in **Data Science**, **Machine Learning**, or **Web Development** projects! 🚀  
+
+---
 
 <h3 align="left"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = "30px">GitHub Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anni990&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="anni990" /></p>
