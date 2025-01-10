@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at my <a href="https://anni990.github.io/My-Portfolio/" target="_blank">**Portfolio**
  </a>
 
-- 💬 Ask me about **HTML, CSS, PYTHON, FLASK , Data Analysis, Machine Learning Concpts**
+- 💬 Discuss with me about **HTML, CSS, PYTHON, FLASK , Data Analysis, Machine Learning Concpts**
 
 - 📫 How to reach me **aniket22mishra2004@gmail.com**
 
