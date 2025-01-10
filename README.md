@@ -100,6 +100,3 @@ Feel free to check out my repositories or reach out for collaboration in **Data 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anni990&theme=highcontrast" alt="anni990" /></p>
 
----
-
-
