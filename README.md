@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,c,mysql,flask,tensorflow,vscode,github,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,c,flask,tensorflow,vscode,github,git,mysql" />
 </div>
 
 ---
