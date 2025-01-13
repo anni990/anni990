@@ -1,5 +1,4 @@
  <h1 align="center"> 
-    <a href = "https://avatars.githubusercontent.com/u/155063571?v=4" target="_blank"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Kumar+Mishra!;" /> 
  </h1>
 
