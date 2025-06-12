@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <a href="https://www.geeksforgeeks.org/user/aniket22mizs4a/" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=aniket22mishra2004@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<a href="https://anni990.github.io/My-Portfolio/" target="_blank">
+  </a>me
+<a href="https://anni990.me" target="_blank">
     <img  align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>    
 </p>
 
@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 
 ### 🚀 Projects  
 
+- 🌐 **GreenSathi**: A platform for farmers with many features using Machine learning and LLMs.  
+
 - 🌟 **Food Waste Reduction Platform**: Leveraged technology to minimize food wastage effectively.
   
 - ❤️ **Cardiovascular Disease Prediction**: Built a predictive model to enhance healthcare decisions.
   
 - 🎬 **Movie Recommendation System**: Developed a system to suggest movies based on user preferences.
   
-- 🌐 **Web Scraping Mini Projects**: Extracted valuable insights from websites efficiently.  
-
 ---
 
 ### 💼 Professional Experience 
