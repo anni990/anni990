@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at my <a href="https://anni990.github.io/My-Portfolio/" target="_blank">**Portfolio**
+- 👨‍💻 All of my projects are available at my <a href="https://anni990.me" target="_blank">**Portfolio**
  </a>
 
 - 💬 Discuss with me about **HTML, CSS, PYTHON, FLASK , Data Analysis, Machine Learning Concpts**
