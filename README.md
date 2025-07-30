@@ -101,6 +101,6 @@ Feel free to check out my repositories or reach out for collaboration in **Data 
   <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <br>
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-snake-dark.svg" width="95%" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/anni990/anni990/output/github-snake-dark.svg" width="95%" />
   </div>
   <hr>
